@@ -1,0 +1,10 @@
+Comment
+	-body
+	-mod_time
+	-username
+
+Functionality:
+	-view comments 10 per page, in descending order by mod_time
+	-create a new comment
+	-delete a comment
+	-edit a comment
